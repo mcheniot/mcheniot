@@ -1,5 +1,5 @@
 
-- 📫 How to reach me: michael.chen@telus.com
+<img align="left" alt="Under Construction" width="26px" src="https://support.google.com/cloud-certification/answer/9750149?hl=en" />Google Cloud Certified - Professional Cloud Architect 
 
 
 <br />
